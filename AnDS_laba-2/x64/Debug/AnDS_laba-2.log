@@ -1,0 +1,18 @@
+﻿  AnDS_laba-2.cpp
+C:\Users\Dominator\source\repos\AnDS_laba-2\AnDS_laba-2\Test_BST.h(16,30): warning C4293: <<: отрицательное или слишком большое смещение; поведение не определено
+C:\Users\Dominator\source\repos\AnDS_laba-2\AnDS_laba-2\Test_BST.h(59,19): warning C4244: аргумент: преобразование "INT_64" в "int", возможна потеря данных
+C:\Users\Dominator\source\repos\AnDS_laba-2\AnDS_laba-2\Test_BST.h(61,18): warning C4244: аргумент: преобразование "INT_64" в "int", возможна потеря данных
+C:\Users\Dominator\source\repos\AnDS_laba-2\AnDS_laba-2\Test_BST.h(30,24): warning C4101: step: неиспользованная локальная переменная
+C:\Users\Dominator\source\repos\AnDS_laba-2\AnDS_laba-2\Test_BST.h(72,26): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Dominator\source\repos\AnDS_laba-2\AnDS_laba-2\Test_BST.h(191,21): warning C4244: инициализация: преобразование "INT_64" в "int", возможна потеря данных
+C:\Users\Dominator\source\repos\AnDS_laba-2\AnDS_laba-2\Test_BST.h(198,30): warning C4244: =: преобразование "INT_64" в "int", возможна потеря данных
+C:\Users\Dominator\source\repos\AnDS_laba-2\AnDS_laba-2\Test_BST.h(214,21): warning C4244: инициализация: преобразование "INT_64" в "int", возможна потеря данных
+C:\Users\Dominator\source\repos\AnDS_laba-2\AnDS_laba-2\AnDS_laba-2.cpp(11,1): warning C4005: MAX_SIZE: изменение макроопределения
+C:\Users\Dominator\source\repos\AnDS_laba-2\AnDS_laba-2\Test_BST.h(9): message : см. предыдущее определение "MAX_SIZE"
+C:\Users\Dominator\source\repos\AnDS_laba-2\AnDS_laba-2\AnDS_laba-2.cpp(24,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Dominator\source\repos\AnDS_laba-2\AnDS_laba-2\BST.h(617,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dominator\source\repos\AnDS_laba-2\AnDS_laba-2\BST.h(607): message : во время компиляции функции-члена класс шаблон "int BST<int,int>::getExternalPath(void)"
+C:\Users\Dominator\source\repos\AnDS_laba-2\AnDS_laba-2\AnDS_laba-2.cpp(113): message : выполняется компиляция ссылки на экземпляр шаблон функции "int BST<int,int>::getExternalPath(void)"
+C:\Users\Dominator\source\repos\AnDS_laba-2\AnDS_laba-2\AnDS_laba-2.cpp(20): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "BST<int,int>"
+C:\Users\Dominator\source\repos\AnDS_laba-2\AnDS_laba-2\BST.h(658,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  AnDS_laba-2.vcxproj -> C:\Users\Dominator\source\repos\AnDS_laba-2\x64\Debug\AnDS_laba-2.exe
